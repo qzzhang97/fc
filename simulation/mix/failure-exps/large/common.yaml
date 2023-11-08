@@ -1,0 +1,6 @@
+rnd_sed: 3
+fc:
+  ports_of_vir_layer: [4,8,8,4]
+  switches: 144
+  ports: 32
+  to_hosts: 8

@@ -1,0 +1,14 @@
+simulation/build
+simulation/mix/failure-exps/scripts
+simulation/waf-tools
+simulation/mix/failure-exps/large/topo/
+simulation/mix/failure-exps/large/traffic/
+simulation/mix/failure-exps/large/output/
+simulation/mix/failure-exps/large/tm/
+simulation/mix/failure-exps/large/trace/
+simulation/mix/failure-exps/large/*.pyc
+simulation/mix/failure-exps/large/config/
+simulation/out/
+simulation/mix/failure-exps/large/__pycache__/
+
+
